@@ -1,0 +1,7 @@
+username1       FS 999000.00
+username2       BS 001000.00
+username3       SS 000500.99
+username4       AA 500000.00
+admin1          AA 001500.00
+nomoney         FS 000000.00
+usertest321     BS 000500.00
